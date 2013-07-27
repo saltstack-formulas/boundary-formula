@@ -1,4 +1,4 @@
-# This state file will install the Bouncary.com bprobe
+# This state file will install the Boundary.com bprobe
 # client and register it to your account
 
 get_bprobe_src:
