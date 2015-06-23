@@ -1,1 +1,3 @@
-bprobe.creds: <Organization ID>:<API Key>
+boundary-meter:
+  - enterprise_api_token: <Organization ID>:<API Key>
+  - premium_api_token: <API Key>
